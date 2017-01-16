@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="17243" started-at="2017-01-15T23:43:18Z" finished-at="2017-01-15T23:43:35Z">
+    <groups>
+    </groups>
+    <test name="RegressionTests" duration-ms="17243" started-at="2017-01-15T23:43:18Z" finished-at="2017-01-15T23:43:35Z">
+      <class name="TestingJenkinsSelInt">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestingJenkinsSelInt@7a5d012c]" name="setup" is-config="true" duration-ms="14844" started-at="2017-01-15T23:43:18Z" finished-at="2017-01-15T23:43:33Z">
+        </test-method>
+        <test-method status="PASS" signature="SearchButton()[pri:0, instance:TestingJenkinsSelInt@7a5d012c]" name="SearchButton" duration-ms="123" started-at="2017-01-15T23:43:33Z" finished-at="2017-01-15T23:43:33Z">
+        </test-method>
+        <test-method status="PASS" signature="logoCheck()[pri:0, instance:TestingJenkinsSelInt@7a5d012c]" name="logoCheck" duration-ms="36" started-at="2017-01-15T23:43:33Z" finished-at="2017-01-15T23:43:33Z">
+        </test-method>
+        <test-method status="PASS" signature="searchBarCheck()[pri:0, instance:TestingJenkinsSelInt@7a5d012c]" name="searchBarCheck" duration-ms="38" started-at="2017-01-15T23:43:33Z" finished-at="2017-01-15T23:43:33Z">
+        </test-method>
+        <test-method status="PASS" signature="testWebTitle()[pri:0, instance:TestingJenkinsSelInt@7a5d012c]" name="testWebTitle" duration-ms="17" started-at="2017-01-15T23:43:33Z" finished-at="2017-01-15T23:43:33Z">
+        </test-method>
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:TestingJenkinsSelInt@7a5d012c]" name="cleanup" is-config="true" duration-ms="2141" started-at="2017-01-15T23:43:33Z" finished-at="2017-01-15T23:43:35Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

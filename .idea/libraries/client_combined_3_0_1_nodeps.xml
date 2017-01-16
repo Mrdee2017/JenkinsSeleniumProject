@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="client-combined-3.0.1-nodeps">
+    <CLASSES>
+      <root url="jar://C:/SeleniumSetup/selenium-java-3.0.1/client-combined-3.0.1-nodeps.jar!/" />
+      <root url="jar://C:/SeleniumSetup/selenium-server-standalone-3.0.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/testng/lib/testng.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/testng/lib/jcommander.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
