@@ -51,6 +51,15 @@ public class TestingJenkinsSelInt {
         }
     }
 
+    @Test
+    public void SearchFunction()throws InterruptedException {
+        propId = "lst-ib";
+        WebElement srcbr = driver.findElement(By.id(propId));
+        propName = "btnK";
+        WebElement srchbtn = driver.findElement(By.name(propName));
+        srcbr.sendKeys("selenium");
+    }
+
 
     @AfterTest
     public void cleanup(){

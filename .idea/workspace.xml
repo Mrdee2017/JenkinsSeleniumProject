@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8ee9229-6e34-4553-a221-be2ef57105a1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestingJenkinsSelInt.java" afterPath="$PROJECT_DIR$/src/test/java/TestingJenkinsSelInt.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,8 +22,8 @@
       <file leaf-file-name="TestingJenkinsSelInt.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestingJenkinsSelInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="309">
+              <caret line="58" column="67" lean-forward="false" selection-start-line="58" selection-start-column="67" selection-end-line="58" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,11 +44,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/TestingJenkinsSelInt.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/BatchTestsRun.xml" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/TestingJenkinsSelInt.java" />
       </list>
     </option>
   </component>
@@ -497,33 +497,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.15 at 23h 40m 13s.xml">
+    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.24 at 19h 24m 14s.xml">
       <configuration name="C:/Users/Kale/IdeaProjects/JenkinsSelenium/BatchTestsRun.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.15 at 23h 42m 00s.xml">
+    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.24 at 19h 26m 40s.xml">
       <configuration name="C:/Users/Kale/IdeaProjects/JenkinsSelenium/BatchTestsRun.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestingJenkinsSelInt - 2017.01.15 at 23h 27m 54s.xml">
-      <configuration name="TestingJenkinsSelInt" configurationId="TestNG" />
+    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.24 at 19h 27m 54s.xml">
+      <configuration name="C:/Users/Kale/IdeaProjects/JenkinsSelenium/BatchTestsRun.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestingJenkinsSelInt - 2017.01.15 at 23h 40m 01s.xml">
-      <configuration name="TestingJenkinsSelInt" configurationId="TestNG" />
+    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.24 at 19h 32m 17s.xml">
+      <configuration name="C:/Users/Kale/IdeaProjects/JenkinsSelenium/BatchTestsRun.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.24 at 19h 33m 57s.xml">
+      <configuration name="C:/Users/Kale/IdeaProjects/JenkinsSelenium/BatchTestsRun.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.24 at 19h 34m 58s.xml">
+      <configuration name="C:/Users/Kale/IdeaProjects/JenkinsSelenium/BatchTestsRun.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.24 at 19h 35m 57s.xml">
+      <configuration name="C:/Users/Kale/IdeaProjects/JenkinsSelenium/BatchTestsRun.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.24 at 19h 36m 28s.xml">
+      <configuration name="C:/Users/Kale/IdeaProjects/JenkinsSelenium/BatchTestsRun.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.24 at 19h 37m 27s.xml">
+      <configuration name="C:/Users/Kale/IdeaProjects/JenkinsSelenium/BatchTestsRun.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kale_IdeaProjects_JenkinsSelenium_BatchTestsRun_xml - 2017.01.24 at 19h 37m 43s.xml">
+      <configuration name="C:/Users/Kale/IdeaProjects/JenkinsSelenium/BatchTestsRun.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.49707174" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.50292826" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28503937" sideWeight="0.5058565" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28503937" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -548,7 +566,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -622,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestingJenkinsSelInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="309">
+          <caret line="58" column="67" lean-forward="false" selection-start-line="58" selection-start-column="67" selection-end-line="58" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
